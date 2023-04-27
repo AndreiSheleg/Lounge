@@ -1,7 +1,8 @@
 body {
     font-family: sans-serif;
 }
-
+/*Комментарии в CSS устанавливаются при помощи комбинации клавиш
+cntrl+shift+/ правый*/
 
 h1, h2 {
     color: gray;
@@ -12,6 +13,21 @@ h1 {
 }
 
 p, em {
-
     color: maroon;
+}
+
+.greentea {
+    color: forestgreen;
+}
+
+p.blueberry {
+    color: purple;
+}
+
+p.greentea {
+    color: forestgreen;
+}
+
+p.raspberry {
+    color: blue;
 }
