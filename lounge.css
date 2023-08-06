@@ -71,3 +71,13 @@ h2 {
 .artist {
     font-weight: bold;
 }
+
+a:link {
+    color: green;
+}
+a:visited {
+    color: #d12c47;
+}
+a:hover {
+    color: green;
+}
